@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://LeMasters.github.io/categories/</loc>
+    <loc>http://LeMasters.github.io/</loc>
+    <lastmod>2021-01-29T21:16:46-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://LeMasters.github.io/</loc>
+    <loc>http://LeMasters.github.io/posts/</loc>
+    <lastmod>2021-01-29T21:16:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://LeMasters.github.io/posts/welcome/</loc>
+    <lastmod>2021-01-29T21:16:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://LeMasters.github.io/categories/</loc>
   </url>
   
   <url>
